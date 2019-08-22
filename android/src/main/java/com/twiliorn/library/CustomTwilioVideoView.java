@@ -17,7 +17,7 @@ import android.media.AudioFocusRequest;
 import android.media.AudioManager;
 import android.os.Build;
 import android.os.Handler;
-import android.support.annotation.StringDef;
+import androidx.annotation.StringDef;
 import android.util.Log;
 import android.view.View;
 
